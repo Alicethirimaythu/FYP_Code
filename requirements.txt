@@ -6,3 +6,4 @@ peft==0.5.0
 trl
 scikit-learn
 ipywidgets
+bitsandbytes
